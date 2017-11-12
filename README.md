@@ -1,2 +1,2 @@
 # Svm
-Support Vector Machine with Linear and Gaussian Kernel 
+Ex6: Sanford Support Vector Machine with Linear and Gaussian Kernel 
